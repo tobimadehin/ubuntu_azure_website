@@ -3,7 +3,9 @@ A basic website running on ubuntu VMs in azure.
 
 The project was done in a docker container on Ubuntu LTS 18.04.
 
-The initialization of cloud instances was done with cloud-init
+The initialization of cloud instances was done with cloud-init.
+
+This project utilizes azure load balancing feature to create a highly available software.
 
 ## Deployment steps
 ### Pre-requisites
