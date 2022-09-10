@@ -6,16 +6,17 @@ A basic website running on ubuntu VMs in azure
 1. An azure account
 2. A docker runtime
 
-Clone the project to your machine 
+### Steps
+1. Clone the project to your machine 
 
-Deploy the ```deploy.sh``` script
+2. Deploy the ```deploy.sh``` script
 ```sudo bash deploy.sh```
 
-Copy the public ip from the terminal into your address bar
+3. Copy the public ip from the terminal into your address bar
 ```http://<-public ip->```
 
-ubuntu_azure_website should be up and running
+4. ubuntu_azure_website should be up and running
 
-If you run into any issues while executing any of these steps, simply create a case
+5. If you run into any issues while executing any of these steps, simply create a case
 
 Cheers!
