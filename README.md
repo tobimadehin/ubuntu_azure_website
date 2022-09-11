@@ -1,5 +1,5 @@
 # ubuntu_azure_website  
-A basic website running on ubuntu VMs in azure.    
+Provision a static html page that runs on ubuntu VMs in azure.    
 
 The project was done in a docker container on Ubuntu LTS 18.04.
 
